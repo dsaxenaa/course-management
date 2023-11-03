@@ -35,29 +35,6 @@
         "id": 102,
         "name": "Bob Smith",
         "email": "bob@example.com"
-      },
-      {
-        "id": 1234,
-        "name": "new",
-        "email": "Divyansh.com"
-      },
-      {
-        "id": 12345,
-        "name": "new",
-        "email": "Divyansh.com",
-        "completed": false
-      },
-      {
-        "id": "654371d8b6f24979626641f4",
-        "name": "Divyansh Saxena",
-        "email": "divyanshssaxena1@gmail.com",
-        "completed": true
-      },
-      {
-        "id": "6545179b27f19606a850cc6d",
-        "name": "Divyansh Saxena",
-        "email": "divyanshssaxena1989@gmail.com",
-        "completed": false
       }
     ]
   },
@@ -96,34 +73,6 @@
         "id": 104,
         "name": "Diana Johnson",
         "email": "diana@example.com"
-      },
-      {
-        "id": 12345,
-        "name": "new",
-        "email": "Divyansh.com"
-      },
-      {
-        "id": 123456,
-        "name": "new",
-        "email": "Divyansh.com"
-      },
-      {
-        "id": "654371d8b6f24979626641f4",
-        "name": "Divyansh Saxena",
-        "email": "divyanshssaxena1@gmail.com",
-        "completed": false
-      },
-      {
-        "id": "6545179b27f19606a850cc6d",
-        "name": "Divyansh Saxena",
-        "email": "divyanshssaxena1989@gmail.com",
-        "completed": true
-      },
-      {
-        "id": "65451fbd3b7e27023344784b",
-        "name": "Divyansh Saxena",
-        "email": "divyanshssaxena1@gmail.com",
-        "completed": true
       }
     ]
   },
@@ -162,18 +111,6 @@
         "id": 106,
         "name": "Finn Anderson",
         "email": "finn@example.com"
-      },
-      {
-        "id": "654371d8b6f24979626641f4",
-        "name": "Divyansh Saxena",
-        "email": "divyanshssaxena1@gmail.com",
-        "completed": true
-      },
-      {
-        "id": "6545179b27f19606a850cc6d",
-        "name": "Divyansh Saxena",
-        "email": "divyanshssaxena1989@gmail.com",
-        "completed": false
       }
     ]
   },
@@ -207,12 +144,6 @@
         "id": 107,
         "name": "Grace Smith",
         "email": "grace@example.com"
-      },
-      {
-        "id": "654371d8b6f24979626641f4",
-        "name": "Divyansh Saxena",
-        "email": "divyanshssaxena1@gmail.com",
-        "completed": true
       }
     ]
   },
@@ -403,12 +334,6 @@
         "id": 118,
         "name": "Riley Brown",
         "email": "riley@example.com"
-      },
-      {
-        "id": "654371d8b6f24979626641f4",
-        "name": "Divyansh Saxena",
-        "email": "divyanshssaxena1@gmail.com",
-        "completed": true
       }
     ]
   },
@@ -637,12 +562,6 @@
         "id": 130,
         "name": "Fiona Adams",
         "email": "fiona@example.com"
-      },
-      {
-        "id": "654371d8b6f24979626641f4",
-        "name": "Divyansh Saxena",
-        "email": "divyanshssaxena1@gmail.com",
-        "completed": true
       }
     ]
   },
@@ -757,12 +676,6 @@
         "id": 136,
         "name": "Lily Brown",
         "email": "lily@example.com"
-      },
-      {
-        "id": "654371d8b6f24979626641f4",
-        "name": "Divyansh Saxena",
-        "email": "divyanshssaxena1@gmail.com",
-        "completed": false
       }
     ]
   },
